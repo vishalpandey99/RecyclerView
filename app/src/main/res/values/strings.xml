@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="connum">Contact Number</string>
+    <string name="con">Contact</string>
+</resources>
